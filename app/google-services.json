@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "495237642488",
+    "firebase_url": "https://pdfuploader-1bb51.firebaseio.com",
+    "project_id": "pdfuploader-1bb51",
+    "storage_bucket": "pdfuploader-1bb51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495237642488:android:6f0d53a6897d6c57f2a30d",
+        "android_client_info": {
+          "package_name": "com.example.pdfuploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495237642488-b2aodd4ndu86dn05asgkk18rkil7gia0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pdfuploader",
+            "certificate_hash": "e35d404afe7421d99a9aa5cc684941f63896c281"
+          }
+        },
+        {
+          "client_id": "495237642488-pkk95il6es8vm5qbjckd9jo724jeitf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2ObWUmcmfYLfjf17HtiRJzRtfu2D9Q3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495237642488-pkk95il6es8vm5qbjckd9jo724jeitf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
